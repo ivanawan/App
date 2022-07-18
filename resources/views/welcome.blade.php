@@ -46,7 +46,7 @@
                  
              <tr>
                  <th>{{$i++}}</th>
-                 <td>{{$item->service_name}}</td>
+                 <td>{{$item->customer_name}}</td>
                  <td>{{$item->booking_date}}</td>
                  <td>{{$item->total}}</td>
                 </tr>
